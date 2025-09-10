@@ -1,0 +1,18 @@
+a {
+    display: block;
+    text-align: center;
+}
+
+h1 {
+    font-family: "Lucida Console", Helvetica, sans-serif;
+    font-size: 52px;
+    text-align: center;
+}
+
+h2 {
+    margin-left: 20px;
+}
+
+div {
+    margin-left: 100px;
+}
